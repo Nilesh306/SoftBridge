@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Products.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="SoftBridgeProducts">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Description" Type="varchar(max)" Nullable="false" />
+    <Property Name="Price" Type="numeric" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="ImageURL" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ProductsStoreContainer">
+    <EntitySet Name="SoftBridgeProducts" EntityType="Self.SoftBridgeProducts" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

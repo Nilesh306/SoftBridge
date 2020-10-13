@@ -1,0 +1,96 @@
+﻿@model IEnumerable<SoftBridgeApp.Models.Product>
+@{
+    ViewBag.Title = "Add Product";
+}
+
+<h2 class="text-center" style="background-color: #eeeeee;">Add Product</h2>
+
+<div class="container" style=" position: center; padding-left:400px">
+    <div class="col-md-6" style="align-content:center">
+        <form id="AddNewProduct" method="post" enctype="multipart/form-data" onsubmit="return AjaxPost(this)">
+            <label>Name</label><br />
+            <input id="Name" name="Name" class="form-control" placeholder="Product Name" required />
+            <label>Description</label><br />
+            <input id="Description" name="Description" class="form-control" placeholder="Description" required />
+            <label>Price</label><br />
+            <input id="Price" name="Price" class="form-control" placeholder="Price" type="number" step="0.01" required />
+            <label>ImageURL</label><br />
+            <input id="imgfile" name="imgfile" class="form-control" placeholder="ImageURL" type="file" required />
+            <br />
+            <button class="btn btn-danger">Add</button>
+        </form>
+    </div>
+</div>
+
+<br />
+<br />
+
+<hr />
+<div class="container">
+    <h2 class="text-center" style="background-color: #eeeeee;">Product List</h2>
+    @if (Model.Count() == 0)
+    {
+        <div class="col-md-3">
+            <p>No data found</p>
+        </div>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            decimal price = Convert.ToDecimal(item.Price);
+
+            <div class="col-md-3" style="margin-bottom:25px">
+                <div class="thumbnail">
+                    <div class="image">
+                        <img class="img-responsive" src=@Url.Content(item.ImageURL) height="100" width="150" />
+                       
+                    </div>
+
+                    <div class="caption" style="border-top:3px solid #808080">
+                        <h3><a href="@Url.Action("DetailsProduct", "Product", new { id = Convert.ToInt32(@item.ProductID) })">@item.Name</a></h3>
+                        <h4>@price.ToString("F2")$</h4>
+                    </div>
+
+                    <div class="center-block">
+                        @* <a href="@Url.Action("DetailsProduct", "Product", new { id = Convert.ToInt32(@item.ProductID) })" class="btn btn-primary">Details</a>*@
+                        <a onclick="Delete(@item.ProductID)" class="btn btn-danger">Delete</a>
+
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>
+
+
+<script>
+
+    function AjaxPost(formData) {
+        var ajaxConfig = {
+            type: "post",
+            url: "/Product/SaveData",
+            data: new FormData(formData),
+            success: function (result) {
+                alert(result);
+                window.location.href = "/Product/AddNewProduct"
+            }
+        }
+        if ($(formData).attr('enctype') == "multipart/form-data") {
+            ajaxConfig["contentType"] = false;
+            ajaxConfig["processData"] = false;
+        }
+        $.ajax(ajaxConfig);
+        return false;
+    }
+</script>
+@section scripts{
+    <script>
+
+            function Delete( id) {
+            alertify.confirm('SoftBridge','Are you sure to delete this Record?',function(){
+            window.location.href='@Url.Action("Delete", "Product")/'+id;
+            }, null);
+                }
+            </script>
+  }

@@ -1,0 +1,50 @@
+﻿@model SoftBridgeApp.Models.Product
+
+@{
+    ViewBag.Title = "DetailsProduct";
+}
+
+    <h2 class="text-center" style="background-color: #eeeeee;">Product Details</h2>
+
+    <div>
+
+        <hr />
+        
+        <dl class="dl-horizontal" style="padding-left:400px">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name) :
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description) :
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Price) :
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+
+            <dt>
+               Image :
+            </dt>
+            <dd>
+                <img class="img-responsive" src=@Url.Content(Model.ImageURL) height="100" width="100" />
+            </dd>
+
+        </dl>
+        </div>
+        <p>
+            @*  @Html.ActionLink("Edit", "Edit", new { id = Model.ProductID }) |*@
+            @Html.ActionLink("Back to List", "AddNewProduct")
+        </p>

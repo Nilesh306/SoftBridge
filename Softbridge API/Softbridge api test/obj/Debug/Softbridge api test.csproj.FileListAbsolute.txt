@@ -1,0 +1,108 @@
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Softbridge api test.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Softbridge api test.pdb
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Softbridge API.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Http.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Optimization.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Mvc.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\EntityFramework.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Razor.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Softbridge API.pdb
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Softbridge API.dll.config
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Http.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Optimization.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Mvc.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\EntityFramework.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.Razor.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.csprojAssemblyReference.cache
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.csproj.CoreCompileInputs.cache
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.csproj.CopyComplete
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.pdb
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Softbridge api test.dll.config
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Castle.Core.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Moq.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\WebGrease.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Antlr3.Runtime.dll
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Castle.Core.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Moq.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NILESH SINGH BHATI\source\repos\Softbridge API\Softbridge api test\bin\Debug\Antlr3.Runtime.pdb
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Softbridge api test.dll.config
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Softbridge api test.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Softbridge api test.pdb
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Castle.Core.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\EntityFramework.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Moq.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Softbridge API.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Http.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Optimization.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Mvc.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Net.Http.Formatting.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Newtonsoft.Json.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Http.WebHost.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\WebGrease.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Razor.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Antlr3.Runtime.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Softbridge API.pdb
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Softbridge API.dll.config
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Castle.Core.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\EntityFramework.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Moq.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Http.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Optimization.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Mvc.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Net.Http.Formatting.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Newtonsoft.Json.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Http.WebHost.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.Razor.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\Antlr3.Runtime.pdb
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.csprojAssemblyReference.cache
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.csproj.CoreCompileInputs.cache
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.csproj.CopyComplete
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.dll
+D:\Nilesh\APISoftbridge\Softbridge API\Softbridge api test\obj\Debug\Softbridge api test.pdb
